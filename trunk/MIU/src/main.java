@@ -7,7 +7,7 @@ public class main {
 
     private static final int ITERATIONS = 7;
     private static String input;
-    private static char[] miu;
+
 
 
 
